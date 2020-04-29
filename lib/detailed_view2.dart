@@ -43,7 +43,7 @@ class detailed_view2 extends StatelessWidget {
                       padding: EdgeInsets.all(8.0),
                       child: Material(
                           elevation: 5.0,
-                          color: Colors.white30.withOpacity(0.2),
+                          color: Colors.white30.withOpacity(0.8),
                           borderRadius: BorderRadius.circular(100.0),
                           child: MaterialButton(
                             onPressed: () {
